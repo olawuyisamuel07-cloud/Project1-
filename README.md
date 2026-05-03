@@ -14,5 +14,5 @@ tool designed to help analyze and better understand circuit performance, with th
 conditions
 This image just shows the visuals <img width="832" height="604" alt="Screenshot 2026-05-03 020436" src="https://github.com/user-attachments/assets/1329dbcc-21e7-4522-87df-c193e93e8834" />
 
-My name is Olawuyi Samuel and i am a first class mechatronics engineering student of Bowen Universiuty Iwo.I am deeply passionate about the intersection of Robotics and Artificial Intelligence.
+My name is Olawuyi Samuel and i am a first class mechatronics engineering student of Bowen Universiuty i'm alsp an IEEE student member.I am deeply passionate about the intersection of Robotics and Artificial Intelligence.
 My primary goal is to master the integration of AI into physical systems, focusing on creating autonomous robots that can perceive, learn, and interact with their environments in real-time 
